@@ -1,6 +1,9 @@
 # SmartBeta_and_ETF
 
-# 指數編製
+> **使用須知**  
+> 由於github有檔案大小限制，故無法將股票歷史資料傳上來。  
+> 因此在`clone`此專案後，先至下方連結下載整個Data資料夾並放入專案中，便可順利運行程式碼。  
+> [Data資料夾連結](https://drive.google.com/drive/folders/1vPrZ9P7Bpk1GxwLc0B62CNO1v8fQufnK?usp=sharing)
 
 ## 步驟
 
